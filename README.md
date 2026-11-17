@@ -11,12 +11,15 @@
 
 ---
 
-## 👨‍💻 About me
+<center>
+  ## about
 
-programming for fun as hobby
+  programming for fun as hobby
 
-little bit of everything
+  little bit of everything
 
-**Main languages**
+  ## langs
 
-<img src="https://skillicons.dev/icons?i=py,ts&perline=2" alt="Python, TypeScript" />
+  <img src="https://skillicons.dev/icons?i=py,ts&perline=2" alt="Python, TypeScript" />
+
+</center>
