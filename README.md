@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lidsadevas/lidsadevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+lidsadevas+%F0%9F%91%8B;Hobbyist+programmer;Python+%7C+TypeScript+%7C+Go" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://komarev.com/ghpvc/?username=lidsadevas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/lidsadevas?tab=followers"><img src="https://img.shields.io/github/followers/lidsadevas?style=flat&logo=github&label=Followers" alt="followers" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About me
+
+programming for fun as hobby
+
+little bit of everything
+
+**Main languages**
+
+<img src="https://skillicons.dev/icons?i=py,ts&perline=2" alt="Python, TypeScript" />
