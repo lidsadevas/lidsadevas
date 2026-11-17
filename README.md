@@ -12,14 +12,13 @@
 ---
 
 <center>
-  ## about
 
+  ## about
   programming for fun as hobby
 
   little bit of everything
 
   ## langs
-
   <img src="https://skillicons.dev/icons?i=py,ts&perline=2" alt="Python, TypeScript" />
 
 </center>
